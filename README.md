@@ -1,6 +1,7 @@
 # 💫 About Me:
 🌱 I’m currently learning Next.js<br>⚡ Fun fact I look grumpy when I'm working.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vheatherese&label=Profile%20views&color=0e75b6&style=flat" alt="vheatherese" /> </p>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/vheatherese) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vhea-therese-valmoria) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/vheatherese) 
