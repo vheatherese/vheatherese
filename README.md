@@ -1,7 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently learning Next.js<br>⚡ Fun fact I look grumpy when I'm working.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vheatherese&label=Profile%20views&color=0e75b6&style=flat" alt="vheatherese" /> </p>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/vheatherese) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vhea-therese-valmoria) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/vheatherese) 
@@ -12,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=vheatherese&theme=bear&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vheatherese&theme=bear&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vheatherese&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vheatherese&theme=bear&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vheatherese&icon=0&color=5)](https://visitcount.itsvg.in)
